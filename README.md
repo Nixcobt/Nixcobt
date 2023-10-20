@@ -4,7 +4,7 @@ Soy Nixcobt y soy un programador
 
 
 En mi lista de proyectos hay varios bots de discord y telegram ademas de algunos servidores que estoy configurando.
-Tengo conocimiento de Fl Studio, JavaScript, NodeJS, Tango, Algo de Python y de SQL
+### Tengo conocimiento de Fl Studio, JavaScript, NodeJS, Tango, Algo de Python y de SQL
 
 
 <!--
